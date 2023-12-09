@@ -1,4 +1,4 @@
-package teste
+package main
 
 type Singleton2 struct{}
 
